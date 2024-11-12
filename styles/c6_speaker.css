@@ -15,7 +15,7 @@ body {
     background-color: #fffded;
 }
 a:focus, a:hover {
-	font-style: italic;
+	font-style: normal;
 }
 /* the styles for the header */
 header {
