@@ -16,7 +16,7 @@ body {
     background-color: #fffded;
 }
 a:focus, a:hover {
-	font-style: italic;
+	font-style: normal;
 }
 /* the styles for the header */
 header {
@@ -31,7 +31,7 @@ header h2 {
 }
 header h3 {
 	font-size: 130%;
-	font-style: italic;
+	font-style: normal;
 }
 header img {
 	float: left;
@@ -106,7 +106,7 @@ section p {
 }
 section blockquote {
 	padding: 0 2em;
-	font-style: italic;
+	font-style: normal;
 }
 section ul {
 	padding: 0 0 .25em 1.25em;
