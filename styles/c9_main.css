@@ -48,6 +48,8 @@ header img {
 	position: relative;
 }
 #nav_menu ul li {
+  display: flex;
+  justify-content: space-between;
 }
 #nav_menu ul li a {
     display: block;
