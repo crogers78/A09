@@ -48,8 +48,6 @@ header img {
 	position: relative;
 }
 #nav_menu ul li {
-    float: left;
-	width: 200px;
 }
 #nav_menu ul li a {
     display: block;
