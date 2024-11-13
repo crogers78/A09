@@ -46,7 +46,7 @@ header img {
 	margin: 0;
 	padding: 0;
 display: flex;
-	justify-content: space-around;
+	flex-start: space-around;
 }
 #nav_menu ul li {
 }
