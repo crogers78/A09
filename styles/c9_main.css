@@ -42,7 +42,7 @@ header img {
 }
 /* the styles for the navigation menu */
 #nav_menu ul {
-	display: none;
+	display: flex;
 	flex-basis: 100%;
 	justify-content: space-between;	
 	list-style-type: none;
