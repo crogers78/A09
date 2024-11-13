@@ -45,8 +45,7 @@ header img {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-display: flex;
-	justify-content: flex-start;
+	position: relative;
 }
 #nav_menu ul li {
 	margin-right: 1em;
