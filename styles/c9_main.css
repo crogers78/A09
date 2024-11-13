@@ -168,7 +168,7 @@ footer p {
 	padding: 1em 0;
 }
 #mobile_menu {
-	display: none;
+	display: flex;
 }
 
 @media only screen and (max-width: 734px) {
@@ -201,7 +201,7 @@ footer p {
 		column-count: 2;
 	}
 	#nav_menu {
-		display: none;
+		display: flex;
 	}
 	#mobile_menu {
 		display: block;
