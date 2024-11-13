@@ -48,7 +48,6 @@ header img {
 	position: relative;
 }
 #nav_menu ul li {
-  justify-content: space-between;
 }
 #nav_menu ul li a {
     display: block;
